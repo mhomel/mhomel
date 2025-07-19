@@ -31,10 +31,11 @@
   → Designed as part of a 3-person academic collaboration  
   🔗 [View the full project here](https://github.com/mhomel/simons-task-experiment)
 
-
-- `🩺 Doctor Data`  
-  A classification task using logistic regression and scikit-learn. Built around a fictional dataset of patients.  
-  → Focus: medical logic, binary decisions, explainability
+- `📊 ClientInsight`  
+  A small self-directed project based on randomly generated client data. I used it to practice data cleaning, feature creation, visualizations, and training a simple classifier to predict satisfaction based on age and income.  
+  → Focus: Pandas, matplotlib, logistic regression  
+  → Made to learn and test myself  
+  🔗 [View the full project here](https://github.com/ma\homel/client_insight)
 
 - `📊 Data Detective`  
   Exploratory analysis of synthetic patient data using Pandas and NumPy.  
