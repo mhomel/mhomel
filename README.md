@@ -9,7 +9,7 @@
 - Python (PyCharm, Jupyter)  
 - Pandas, NumPy & scikit-learn  
 - Matplotlib, Seaborn  
-- Thinking in systems — human and machine
+- Thinking in systems - human and machine
 
 ### 🔜 Next in line
 - Deeper dive into ML concepts
