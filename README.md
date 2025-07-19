@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Madzia
 
-🧠 Cognitive science student exploring how to make machines think more like people do — imperfectly, contextually, and with goals that shift over time.  
+🧠 Cognitive science student exploring how to make machines think more like people do - imperfectly, contextually, and with goals that shift over time.  
 📍 Kraków / Remote
 
 ---
@@ -18,15 +18,17 @@
 - SQL (because not everything fits in a CSV)
 - Learning how to explain models, not just train them
 
+  > *I’m not pretending to be done learning — I'm showing that I'm doing it intentionally.*
+
 ---
 
 ### 🧪 Projects
 
 - `🧠 Simon’s Task`  
-  A cognitively inspired experiment based on the classic Simon effect. Participants respond to the meaning of the word (“LEFT” or “RIGHT”) while ignoring its on-screen position - creating congruent or incongruent stimulus-response conditions.  
+  A cognitively inspired experiment based on the classic Simon effect. Participants respond to the meaning of the word (“LEFT” or “RIGHT”) while ignoring its on-screen position — creating congruent or incongruent stimulus-response conditions.  
   → Focus: reaction time, spatial compatibility, attention interference  
-  → Tools: Python + PsychoPy-style logic
- | Designed as part of a 3-person academic collaboration |
+  → Tools: Python + PsychoPy-style logic  
+  → Designed as part of a 3-person academic collaboration
 
 - `🩺 Doctor Data`  
   A classification task using logistic regression and scikit-learn. Built around a fictional dataset of patients.  
@@ -44,11 +46,14 @@
 - I write Python code that helps me explore decision-making, memory and how small models can reflect human thought — or sometimes reveal it.  
 - I study how systems - both biological and artificial - reason, fail, and adapt.
 
-> *Still learning — but not blindly.*
 
-Recently, I also completed a game-based behavioral assessment focused on decision-making, initiative and collaboration.  
-It helped me understand how I actually work, not just how I describe myself.  
-If you're curious, here’s the [report.](./Magdalena-Homel-Raport-gracza-zamazane.pdf)
+### 🧩 How I work
+
+I believe how we think and decide is just as important as what we know.  
+Recently, I completed a game-based behavioral assessment that evaluated how I make decisions, take initiative, and collaborate.
+
+🧠 Curious how I actually work - not just how I describe myself?  
+→ [See the full report.](./Magdalena-Homel-Raport.pdf)
 
 ---
 
