@@ -31,15 +31,18 @@
   → Designed as part of a 3-person academic collaboration  
   🔗 [View the full project here](https://github.com/mhomel/simons-task-experiment)
 
-- `📊 ClientInsight`  
+- `📊 Client Insight`  
   A small self-directed project based on randomly generated client data. I used it to practice data cleaning, feature creation, visualizations, and training a simple classifier to predict satisfaction based on age and income.  
   → Focus: Pandas, matplotlib, logistic regression  
   → Tools: Python, Pandas, matplotlib, seaborn, scikit-learn  
-  🔗 [View the full project here](https://github.com/ma\homel/client_insight)
+  🔗 [View the full project here](https://github.com/mhomel/client_insight)
 
-- `📊 Data Detective`  
-  Exploratory analysis of synthetic patient data using Pandas and NumPy.  
-  → Focus: grouping, visualization, asking the right questions
+- `🧬 Diagnosis Playground`  
+  A beginner-friendly project based on fictional patient data. I used it to simulate diagnostic reasoning through condition-based classification, feature engineering, and group analysis (e.g. average BMI by health status).  
+  → Focus: condition logic, feature creation, group statistics  
+  → Tools: Python, Pandas, NumPy, matplotlib  
+  🔗 [View the full project here](https://github.com/mhomel/diagnosis-playground)
+
 
 ---
 
