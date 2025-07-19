@@ -18,7 +18,7 @@
 - SQL (because not everything fits in a CSV)
 - Learning how to explain models, not just train them
 
-  > *I’m not pretending to be done learning — I'm showing that I'm doing it intentionally.*
+  > *I'm not done learning — and that's the point.*
 
 ---
 
