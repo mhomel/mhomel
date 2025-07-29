@@ -52,14 +52,12 @@
 - I write Python code that helps me explore decision-making, memory and how small models can reflect human thought - or sometimes reveal it.  
 - I study how systems - both biological and artificial - reason, fail, and adapt.
 
+---
 
 ### 🧩 How I work
 
 I believe how we think and decide is just as important as what we know.  
 Recently, I completed a game-based behavioral assessment that evaluated how I make decisions, take initiative, and collaborate.
-
----
-
 
 🧠 Curious how I actually work - not just how I would describe myself?  
 → [See the full report.](https://github.com/mhomel/how-i-work)
