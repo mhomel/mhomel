@@ -48,7 +48,7 @@
 
 ### 💭 What I do
 
-- I learn. Actively, intentionally - and not just by doing tutorials.  
+- I learn. Actively, intentionally, and not just by doing tutorials.  
 - I write Python code that helps me explore decision-making, memory and how small models can reflect human thought - or sometimes reveal it.  
 - I study how systems - both biological and artificial - reason, fail, and adapt.
 
