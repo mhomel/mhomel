@@ -33,7 +33,7 @@
 
 - `📊 Client Insight`  
   A small self-directed project based on randomly generated client data. I used it to practice data cleaning, feature creation, visualizations, and training a simple classifier to predict satisfaction based on age and income.  
-  → Focus: Pandas, matplotlib, logistic regression  
+  → Focus: logistic regression, data analysis
   → Tools: Python, Pandas, matplotlib, seaborn, scikit-learn  
   🔗 [View the full project here](https://github.com/mhomel/client_insight)
 
