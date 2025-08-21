@@ -74,8 +74,8 @@ Recently, I completed a game-based behavioral assessment that evaluated how I ma
 
 ## 📄 CV & Certificates
 
-- 📑 [View my CV]([https://github.com/mhomel/resume/raw/main/CV%20MH.pdf](https://github.com/mhomel/resume))  
-- 🎓 [Cambridge English: Advanced (CAE), C1 Certificate]([https://github.com/mhomel/certificates/raw/main/Cambridge_C1_Advanced.pdf](https://github.com/mhomel/cambridge-cae))
+- 📑 [View my CV](https://github.com/mhomel/resume)  
+- 🎓 [Cambridge English: Advanced (CAE), C1 Certificate](https://github.com/mhomel/cambridge-cae)
 
 ---
 
