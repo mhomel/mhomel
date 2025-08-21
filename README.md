@@ -61,7 +61,6 @@ Recently, I completed a game-based behavioral assessment that evaluated how I ma
 🧠 Curious how I actually work - not just how I would describe myself?  
 → [See the full report.](https://github.com/mhomel/how-i-work)
 
-
 ---
 
 ### 🧠 What I care about
@@ -70,6 +69,13 @@ Recently, I completed a game-based behavioral assessment that evaluated how I ma
 - Cognitive modeling and memory-based reasoning  
 - Tools that make sense of ambiguity, not avoid it  
 - Self-awareness in systems and in learning
+
+---
+
+## 📄 CV & Certificates
+
+- 📑 [View my CV]([https://github.com/mhomel/resume/raw/main/CV%20MH.pdf](https://github.com/mhomel/resume))  
+- 🎓 [Cambridge English: Advanced (CAE), C1 Certificate]([https://github.com/mhomel/certificates/raw/main/Cambridge_C1_Advanced.pdf](https://github.com/mhomel/cambridge-cae))
 
 ---
 
