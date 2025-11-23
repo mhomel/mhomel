@@ -6,7 +6,7 @@
 ---
 
 ### 🌱 Currently learning
-- Python (PyCharm, Jupyter)  
+- Python (because it never ends...)  
 - Pandas, NumPy & scikit-learn  
 - Matplotlib, Seaborn  
 
