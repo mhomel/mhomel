@@ -7,8 +7,8 @@
 
 ### 🌱 Currently learning
 - Python (because it never ends...)  
-- Pandas, NumPy & scikit-learn  
-- Matplotlib, Seaborn  
+- Figma (UI/UX basics),
+
 
 ### 🔜 Next in line
 - Deeper dive into ML concepts
