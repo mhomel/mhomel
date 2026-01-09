@@ -66,7 +66,6 @@ Recently, I completed a game-based behavioral assessment that evaluated how I ma
 
 ### 🧠 What I care about
 
-- AI agents that are understandable, not just accurate  
 - Cognitive modeling and memory-based reasoning  
 - Tools that make sense of ambiguity, not avoid it  
 - Self-awareness in systems and in learning
