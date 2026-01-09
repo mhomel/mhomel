@@ -1,21 +1,21 @@
 ## Hi there 👋 I'm Madzia
 
-🧠 Cognitive science student exploring how to make machines think more like people do - imperfectly, contextually, and with goals that shift over time.  
+🧠 Cognitive science student exploring how people think, how systems work – and what happens when the two don't match (which, unsurprisingly, happens a lot).
 📍 Kraków / Remote
 
 ---
 
 ### 🌱 Currently learning
-- Python (because it never ends...)  
-- Figma (UI/UX basics),
+- Python (because it never ends...)
+- Figma (UI/UX basics)
+- UX fundamentals (research, wireframing, user journeys)
 
 
-### 🔜 Next in line
+### 🔜 Also exploring...
 - Deeper dive into ML concepts
-- First steps into NLP and neural networks 
-- PyTorch (because neurons aren't just biological)
+- First steps into NLP and neural networks
 - SQL (because not everything fits in a CSV)
-- Learning how to explain models, not just train them
+
 
   > *I'm not done learning — and that's the point.*
 
@@ -79,4 +79,4 @@ Recently, I completed a game-based behavioral assessment that evaluated how I ma
 
 ---
 
-📫 Feel free to reach out - especially if you're working on something weird, thoughtful or quietly brilliant.
+📫 Feel free to reach out - especially if you're working on something weird, thoughtful – or built with people in mind.
