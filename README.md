@@ -18,7 +18,7 @@
 - SQL (because not everything fits in a CSV)
 
 
-  > *I'm not done learning — and that's the point.*
+  > *I'm not done learning - and that's the point.*
 
 ---
 
