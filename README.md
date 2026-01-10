@@ -25,7 +25,7 @@
 ### 🧪 Projects
 
 - `🧠 Simon’s Task`  
-  A cognitively inspired experiment based on the classic Simon effect. Participants respond to the meaning of the word (“LEFT” or “RIGHT”) while ignoring its on-screen position – creating congruent or incongruent stimulus-response conditions.  
+  A cognitively inspired experiment based on the classic Simon effect. Participants respond to the meaning of the word (“LEFT” or “RIGHT”) while ignoring its on-screen position - creating congruent or incongruent stimulus-response conditions.  
   → Focus: reaction time, spatial compatibility, attention interference  
   → Tools: Python + PsychoPy-style logic  
   → Designed as part of a 3-person academic collaboration  
