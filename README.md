@@ -41,7 +41,7 @@
   A small UX/UI project exploring how interface design can support calmer, more reflective decision-making. The flow guides the user step by step: describing a decision, reflecting on perceived control, identifying emotions, and saving the decision to return to later.  
   → Focus: emotional awareness, decision-making, gentle UX flows  
   → Tools: Figma (wireframes, components, interactive prototype)  
-  🔗 [View the project on GitHub](https://github.com/mhomel/decision-diary)  
+  🔗 [View the full project on GitHub](https://github.com/mhomel/decision-diary)  
   🔗 [View the interactive Figma prototype](https://www.figma.com/proto/n0igHDM36mKptsX5wx0jLj/Decision-Diary-%E2%80%93-Wireframes)
 
 
