@@ -25,7 +25,7 @@
 ### 🧪 Projects
 
 - `🧠 Simon’s Task`  
-  A cognitively inspired experiment based on the classic Simon effect. Participants respond to the meaning of the word (“LEFT” or “RIGHT”) while ignoring its on-screen position - creating congruent or incongruent stimulus-response conditions.  
+  A cognitively inspired experiment based on the classic Simon effect. Participants respond to the meaning of the word (“LEFT” or “RIGHT”) while ignoring its on-screen position – creating congruent or incongruent stimulus-response conditions.  
   → Focus: reaction time, spatial compatibility, attention interference  
   → Tools: Python + PsychoPy-style logic  
   → Designed as part of a 3-person academic collaboration  
@@ -37,11 +37,12 @@
   → Tools: Python, Pandas, matplotlib, seaborn, scikit-learn  
   🔗 [View the full project here](https://github.com/mhomel/client_insight)
 
-- `🧬 Diagnosis Playground`  
-  A beginner-friendly project based on fictional patient data. I used it to simulate diagnostic reasoning through condition-based classification, feature engineering, and group analysis (e.g. average BMI by health status).  
-  → Focus: condition logic, feature creation, group statistics  
-  → Tools: Python, Pandas, NumPy, matplotlib  
-  🔗 [View the full project here](https://github.com/mhomel/diagnosis-playground)
+- `🌸 Decision Diary (UX/UI)`  
+  A small UX/UI project exploring how interface design can support calmer, more reflective decision-making. The flow guides the user step by step: describing a decision, reflecting on perceived control, identifying emotions, and saving the decision to return to later.  
+  → Focus: emotional awareness, decision-making, gentle UX flows  
+  → Tools: Figma (wireframes, components, interactive prototype)  
+  🔗 [View the project on GitHub](https://github.com/mhomel/decision-diary)  
+  🔗 [View the interactive Figma prototype](https://www.figma.com/proto/n0igHDM36mKptsX5wx0jLj/Decision-Diary-%E2%80%93-Wireframes)
 
 
 ---
