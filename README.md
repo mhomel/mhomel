@@ -2,6 +2,8 @@
 
 🧠 Cognitive science student exploring how people think, how systems work – and what happens when the two don't match (which, unsurprisingly, happens a lot).
 
+🌐 [View my portfolio](https://mhomel.github.io/portfolio)
+
 📍 Kraków / Remote
 
 ---
